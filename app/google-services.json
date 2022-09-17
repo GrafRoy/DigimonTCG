@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730667423746",
+    "project_id": "digimontcg-b137e",
+    "storage_bucket": "digimontcg-b137e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730667423746:android:cea37f04a6e93162ab2f1b",
+        "android_client_info": {
+          "package_name": "com.example.digimontcgfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730667423746-m1v0dju07jl0l3na7umb5jd5q9luibbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqRyHY5Nb80ciKtIZ6GefAmTrc61TwKsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730667423746-m1v0dju07jl0l3na7umb5jd5q9luibbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
