@@ -1,0 +1,2 @@
+# DigimonTCG
+Firestore Kotlin Project
