@@ -1,3 +1,120 @@
 <resources>
     <string name="app_name">DigimonTCGFirestore</string>
+
+    <string name="value_any_cards">All Cards</string>
+    <string name="value_any_power">Power</string>
+    <string name="value_any_evolution">Evolution LVL</string>
+    <string name="value_any_owned">All Cards</string>
+
+    <string name="level_2">2 - Baby</string>
+    <string name="level_3">3 - Rookie</string>
+    <string name="level_4">4 - Champion</string>
+    <string name="level_5">5 - Ultimate</string>
+    <string name="level_6">6 - Mega</string>
+
+    <string name="power_0">0</string>
+    <string name="power_1000">1000</string>
+    <string name="power_2000">2000</string>
+    <string name="power_3000">3000</string>
+    <string name="power_4000">4000</string>
+    <string name="power_5000">5000</string>
+    <string name="power_6000">6000</string>
+    <string name="power_7000">7000</string>
+    <string name="power_8000">8000</string>
+    <string name="power_9000">9000</string>
+    <string name="power_10000">10000</string>
+    <string name="power_11000">11000</string>
+    <string name="power_12000">12000</string>
+
+
+    <string name="label_color">Color</string>
+    <string name="label_power">Power</string>
+    <string name="label_level">Level</string>
+    <string name="label_sort_by">Sort By</string>
+
+    <!--<string name="fmt_num_ratings" translatable="false">(%d)</string>-->
+    <string name="all_cards">All Cards</string>
+    <string name="header_filters">Filter</string>
+    <string name="search">Search</string>
+
+    <string name="sort_by_card">Sort by Color</string>
+    <string name="sort_by_power">Sort by Power</string>
+    <string name="sort_by_level">Sort by Level</string>
+
+    <string name="sorted_by_card">sorted by color</string>
+    <string name="sorted_by_level">sorted by level</string>
+    <string name="sorted_by_power">sorted by power</string>
+
+    <string name="add_random_items">Add Random Items</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="divider_bullet">•</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="message_no_results">Oops, couldn\'t find any results\nthat matched your filter</string>
+    <string name="message_no_reviews">Be the first to leave a review!</string>
+    <string name="hint_review">How was your experience?</string>
+    <string name="submit">Submit</string>
+    <string name="filter_add_review">Add review</string>
+
+    <string name="title_sign_in_error">Sign In Error</string>
+    <string name="message_no_network">No network connection.</string>
+    <string name="message_unknown">Unknown error.</string>
+    <string name="option_retry">Retry</string>
+    <string name="option_exit">Exit</string>
+
+    <!-- Colors for digimon cards -->
+    <string-array name="card">
+        <item>@string/value_any_cards</item>
+
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+
+    </string-array>
+
+    <!-- Card power limit 12000-->
+    <string-array name="power">
+        <item>@string/value_any_power</item>
+
+        <item>0</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
+        <item>10000</item>
+        <item>11000</item>
+        <item>12000</item>
+    </string-array>
+
+    <!-- Price filters -->
+    <string-array name="levels">
+        <item>@string/value_any_evolution</item>
+
+        <item>@string/level_2</item>
+        <item>@string/level_3</item>
+        <item>@string/level_4</item>
+        <item>@string/level_5</item>
+        <item>@string/level_6</item>
+    </string-array>
+
+    <!-- Ways you can sort restaurants -->
+    <string-array name="sort_by">
+        <item>@string/sort_by_card</item>
+        <item>@string/sort_by_level</item>
+        <item>@string/sort_by_power</item>
+    </string-array>
+
+    <string-array name="owner">
+        <item>@string/value_any_owned</item>
+
+        <item>All</item>
+        <item>Owned</item>
+
+    </string-array>
 </resources>
